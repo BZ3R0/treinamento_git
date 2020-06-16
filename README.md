@@ -35,3 +35,21 @@ $ git pull origin <NOME_BRANCH>
 ```sh
 $ git push -u origin <NOME_BRANCH>
 ```
+
+### Criar branch
+
+```sh
+$ git checkout -b <NOME_BRANCH>
+```
+
+### Visualizar branch
+
+```sh
+$ git branch
+```
+
+### Mudar de branch
+
+```sh
+$ git checkout <NOME_BRANCH>
+```
