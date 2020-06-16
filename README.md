@@ -52,6 +52,7 @@ $ git branch
 
 ```sh
 $ git checkout <NOME_BRANCH>
+```
 
 ### Deletar branch
 
