@@ -1,0 +1,15 @@
+table{
+  border: 1px solid black;
+}
+th{
+  background-color: #3A8C36;
+  color: #AE1E07;
+}
+td{
+  background-color: #31DDD2;
+  color: #D5061F;
+}
+caption{
+  background-color: #FAD7A0;
+  color: #34495E;
+}
