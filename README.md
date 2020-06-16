@@ -35,3 +35,9 @@ $ git pull origin <NOME_BRANCH>
 ```sh
 $ git push -u origin <NOME_BRANCH>
 ```
+
+### Deletar branch
+
+```sh
+$ git branch -d <NOME_BRANCH>
+```
